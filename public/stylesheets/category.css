@@ -1,0 +1,169 @@
+.ba {
+    border-style: solid;
+    border-width: 1px;
+  }
+  
+  .table-header {
+    padding-bottom: 2rem !important;
+    margin-top: 30px !important;
+  }
+  
+  .bb {
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+  }
+  
+  .mrb {
+    margin-bottom: 2rem;
+  }
+  
+  .b--black-10 {
+    border-color: rgba(0, 0, 0, .1);
+  }
+  
+  .b--black-05 {
+    border-color: rgba(0, 0, 0, .05);
+  }
+  
+  .br2 {
+    border-radius: .25rem;
+  }
+  
+  .db {
+    display: block;
+  }
+  
+  .dt {
+    display: table;
+  }
+  
+  .dtc {
+    display: table-cell;
+  }
+  
+  .fw4 {
+    font-weight: 400;
+  }
+  
+  .fw6 {
+    font-weight: 600;
+  }
+  
+  .button-reset::-moz-focus-inner {
+    border: 0;
+    padding: 0;
+  }
+  
+  .h2 {
+    height: 2rem;
+  }
+  
+  .lh-title {
+    line-height: 1.25;
+  }
+  
+  .mw6 {
+    max-width: 32rem;
+  }
+  
+  .w15 {
+    width: 15rem;
+  }
+  
+  .w-100 {
+    width: 100%;
+  }
+  
+  .black-60 {
+    color: rgba(0, 0, 0, .6);
+  }
+  
+  .black {
+    color: #000;
+  }
+  
+  .bg-white {
+    background-color: #fff;
+  }
+  
+  .pl3 {
+    padding-left: 1rem;
+  }
+  
+  .pb2 {
+    padding-bottom: .5rem;
+  }
+  
+  .pv1 {
+    padding-top: .25rem;
+    padding-bottom: .25rem;
+  }
+  
+  .mb0 {
+    margin-bottom: 0;
+  }
+  
+  .mt0 {
+    margin-top: 0;
+  }
+  
+  .mt2 {
+    margin-top: .5rem;
+  }
+  
+  .mv0 {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  
+  .tr {
+    text-align: right;
+  }
+  
+  .f6 {
+    font-size: .875rem;
+  }
+  
+  .center {
+    margin-right: auto;
+    margin-left: auto;
+  }
+  
+  .v-mid {
+    vertical-align: middle;
+  }
+  
+  .dim {
+    opacity: 1;
+    transition: opacity .15s ease-in;
+  }
+  
+  .dim:hover, dim:focus {
+    opacity: .5;
+    color: gray;
+    transition: opacity .15s ease-in;
+  }
+  
+  .dim:active {
+    opacity: .8;
+    transition: opacity .15s ease-out;
+  }
+  
+  .pointer:hover {
+    cursor: pointer;
+  }
+  
+  @media screen and (min-width: 30em) {
+    .h3-ns {
+      height: 4rem;
+    }
+  
+    .w3-ns {
+      width: 4rem;
+    }
+  
+    .f5-ns {
+      font-size: 1rem;
+    }
+  }
+  
